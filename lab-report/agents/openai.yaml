@@ -1,0 +1,3 @@
+interface:
+  display_name: "实验报告编写"
+  short_description: "依据课程材料编写实验报告，保留模板与手动修改，核对代码截图并检查排版"
